@@ -1,0 +1,10 @@
+=== WEAPON DETECTION REPORT ===
+Image processed: pexels-kelly-2928147.jpg
+Processing time: 2025-08-18 15:58:10
+Result: SUSPICIOUS WEAPON DETECTED!
+
+=== DETECTED WEAPONS ===
+1. Type: scissors
+   Confidence: 0.34
+   Bounding Box: (1088, 1048) to (2451, 1995)
+

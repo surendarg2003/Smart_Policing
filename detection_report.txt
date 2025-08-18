@@ -1,0 +1,16 @@
+=== YOLOv8 Detection Report ===
+Image processed: Sample image.jpg
+Processing time: 2025-08-18 15:48:04
+Result: No suspicious objects detected.
+
+=== Detected Objects ===
+1. Class: person
+   Confidence: 0.90
+   Type: NORMAL
+   Bounding Box: (154, 31) to (663, 950)
+
+2. Class: baseball glove
+   Confidence: 0.30
+   Type: NORMAL
+   Bounding Box: (322, 329) to (630, 607)
+
